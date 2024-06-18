@@ -1,4 +1,4 @@
-# E-Commerce-MERN-APP
+# PulsePlaza(E-Commerce-MERN-APP)
 
 Backend .env file 
 
